@@ -1,0 +1,15 @@
+h1{
+	color: lightblue;
+	font-family: LOBSTER;
+	font-size: 45px;
+}
+div{
+	color:navy;
+	font-family: Comic Neue;
+}
+*{
+	background-color:lightslategrey;
+}
+li{
+	font-weight: bolder;
+}
